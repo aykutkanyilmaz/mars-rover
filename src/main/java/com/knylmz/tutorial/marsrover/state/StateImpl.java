@@ -1,7 +1,7 @@
 package com.knylmz.tutorial.marsrover.state;
 
 import com.knylmz.tutorial.marsrover.Rover;
-import com.knylmz.tutorial.marsrover.state.command.Movable;
+import com.knylmz.tutorial.marsrover.state.strategy.Movable;
 
 public class StateImpl implements RoverState {
 

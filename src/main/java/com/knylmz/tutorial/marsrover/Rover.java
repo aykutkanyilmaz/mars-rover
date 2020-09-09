@@ -2,10 +2,10 @@ package com.knylmz.tutorial.marsrover;
 
 import com.knylmz.tutorial.marsrover.command.*;
 import com.knylmz.tutorial.marsrover.state.*;
-import com.knylmz.tutorial.marsrover.state.command.EastMove;
-import com.knylmz.tutorial.marsrover.state.command.NorthMove;
-import com.knylmz.tutorial.marsrover.state.command.SouthMove;
-import com.knylmz.tutorial.marsrover.state.command.WestMove;
+import com.knylmz.tutorial.marsrover.state.strategy.EastMove;
+import com.knylmz.tutorial.marsrover.state.strategy.NorthMove;
+import com.knylmz.tutorial.marsrover.state.strategy.SouthMove;
+import com.knylmz.tutorial.marsrover.state.strategy.WestMove;
 
 import java.util.HashMap;
 import java.util.Map;
