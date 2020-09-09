@@ -1,4 +1,4 @@
-package com.knylmz.tutorial.marsrover;
+package com.knylmz.tutorial.marsrover.state;
 
 import com.knylmz.tutorial.marsrover.state.RoverState;
 

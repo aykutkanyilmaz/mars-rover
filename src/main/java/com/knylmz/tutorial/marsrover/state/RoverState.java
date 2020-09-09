@@ -1,7 +1,7 @@
 package com.knylmz.tutorial.marsrover.state;
 
-import com.knylmz.tutorial.marsrover.ROVER_DIRECTION;
 import com.knylmz.tutorial.marsrover.Rover;
+import com.knylmz.tutorial.marsrover.state.command.Movable;
 
 public interface RoverState extends Movable {
 
